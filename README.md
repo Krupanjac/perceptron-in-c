@@ -1,7 +1,7 @@
 # Simple Perceptron (Linear Regression) in C
 
 This project implements a **single-neuron perceptron** (linear regression model) from scratch in **C**, without using any machine-learning libraries.  
-The goal is to demonstrate how **cost functions**, **numerical gradients**, and **gradient descent** work at a low level.
+The goal is to demonstrate how **cost functions**, **numerical gradients**, and **finite difference** work at a low level.
 
 ## What This Program Does
 
